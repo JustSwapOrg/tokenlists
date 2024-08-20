@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"SUNLION",
+            "address":"TBk4dXtfo6j3rxPc1VJDhA7BsVi2XHK1bi",
+            "chainId":1,
+            "decimals":18,
+            "name":"SUN LION",
+            "logoURI":""
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
