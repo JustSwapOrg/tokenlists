@@ -1,10 +1,15 @@
 {
-    "name":"JustSwap Default List",
-    "tokens":[
-        {
+    code": 1,
+    "msg": "成功",
+    "data": [ TRX
+             
+        
+            "type": "tx",
+            "network": "USDT",
             "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            address":"TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S"
             "chainId":1,
+            inputs " to address TFP6WadqPJWbRcqi5GsK4xSCezUvznkb5j
             "decimals":18,
             "name":"SUN TOKEN",
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
