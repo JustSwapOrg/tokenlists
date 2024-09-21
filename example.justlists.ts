@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"USDŦ",
+            "address":"TYiqKwENAh8A139sQ7iRLgxQ7rgXNJ8a6u",
+            "chainId":1,
+            "decimals":6,
+            "name":"USDollarToken",
+            "logoURI":"https://usdollartoken.site/wp-content/uploads/2024/09/TYiqKwENAh8A139sQ7iRLgxQ7rgXNJ8a6u.png"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
