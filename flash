@@ -1,0 +1,18 @@
+{
+  "name": "Flash Token",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TCQtaa8jwzfbNBHsgKJrPjHzTVz8sQ4LJU",
+      "symbol": "FLASH",
+      "name": "Flash Token",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/a/SJEkNtm"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
