@@ -3,7 +3,7 @@
     "tokens":[
         {
             "symbol":"SUN",
-            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":18,
             "name":"SUN TOKEN",
@@ -11,7 +11,7 @@
         },
         {
             "symbol":"BTC",
-            "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":8,
             "name":"Bitcoin",
@@ -19,7 +19,7 @@
         },
         {
             "symbol":"WBTC",
-            "address":"TXpw8XeWYeTUd4quDskoUqeQPowRh4jY65",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":8,
             "name":"Wrapped BTC",
@@ -27,7 +27,7 @@
         },
         {
             "symbol":"ETH",
-            "address":"THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":18,
             "name":"Ethereum",
@@ -35,7 +35,7 @@
         },
         {
             "symbol":"WETH",
-            "address":"TXWkP3jLBqRGojUih1ShzNyDaN5Csnebok",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":18,
             "name":"Wrapped ETH",
@@ -43,7 +43,7 @@
         },
         {
             "symbol":"WBTT",
-            "address":"TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":6,
             "name":"Wrapped BitTorrent",
@@ -51,7 +51,7 @@
         },
         {
             "symbol":"WTRX",
-            "address":"TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":6,
             "name":"Wrapped TRX",
@@ -59,7 +59,7 @@
         },
         {
             "symbol":"JST",
-            "address":"TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":18,
             "name":"JUST GOV v1.0",
@@ -67,7 +67,7 @@
         },
         {
             "symbol":"WIN",
-            "address":"TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":6,
             "name":"WINK",
@@ -75,7 +75,7 @@
         },
         {
             "symbol":"DICE",
-            "address":"TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":6,
             "name":"TRONbetDice",
@@ -83,7 +83,7 @@
         },
         {
             "symbol":"LIVE",
-            "address":"TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK",
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
             "chainId":1,
             "decimals":6,
             "name":"TRONbetLive",
@@ -91,38 +91,38 @@
         },
         {
             "symbol":"USDT",
-            "address":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-            "chainId":1,
-            "decimals":6,
+            "address":"THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
+            "chainId":1",
+            "decimals":6",
             "name":"Tether USD",
-            "logoURI":"https://coin.top/production/logo/usdtlogo.png"
+            "logoURI":https://coin.top/production/logo/usdtlogo.png"
         },
         {
-            "symbol":"USDJ",
-            "address":"TMwFHYXLJaRUPeW6421aqXL4ZEzPRFGkGT",
-            "chainId":1,
-            "decimals":18,
-            "name":"JUST Stablecoin v1.0",
-            "logoURI":"https://coin.top/production/logo/usdj.png"
+            "symbol":USDJ",
+            "address":THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
+            "chainId":1",
+            "decimals":18",
+            "name":JUST Stablecoin v1.1",
+            "logoURI":https://coin.top/production/logo/usdj.png"
         },
         {
-            "symbol":"LTC",
-            "address":"TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd",
-            "chainId":1,
-            "decimals":8,
-            "name":"Litecoin",
-            "logoURI":"https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
+            "symbol":LTC",
+            "address":THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC", 
+            "chainId":1",
+            "decimals":8",
+            "name":Litecoin",
+            "logoURI":https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
         },
         {
-            "symbol":"HT",
-            "address":"TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
-            "chainId":1,
-            "decimals":18,
-            "name":"HuobiToken",
-            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+            "symbol":HT",
+            "address":THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
+            "chainId":1",
+            "decimals":18",
+            "name":HuobiToken",
+            "logoURI":https://coin.top/production/logo/THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC.png"
         }
     ],
-    "logoURI":"https://justswap.io/favicon.ico",
+    "logoURI":HTTPS://justswap.io/favicon.ico",
     "version":{
         "patch":1,
         "major":1,
